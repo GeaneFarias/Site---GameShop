@@ -1,0 +1,26 @@
+body{
+    background: pink;
+    font:normal 15px Arial
+}
+header{
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+section{
+
+    background: white;
+    border-radius: 20px;
+    padding: 25px;
+    margin:auto;
+    width: 50%;
+    box-shadow:3px 3px 10px rgba(0,0, 0,363) ;
+
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
